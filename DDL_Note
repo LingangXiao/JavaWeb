@@ -1,6 +1,0 @@
-show databases; 查询
-create databases 数据库名称; 创新新的数据库
-create database if not exists 数据库名称; 创建数据库，（先判断存不存在）
-drop database 数据库名称; 删除
-select database(); 查看当前使用的数据库
-use 数据库名称; 使用数据库
